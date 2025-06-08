@@ -1,0 +1,51 @@
+{
+  "personal": {
+    "name": "Shourov",
+    "title": "CSE Student & Tech Enthusiast",
+    "email": "sagormodak19@gmail.com",
+    "phone": "+8801760992962",
+    "location": "SUST, Sylhet, Bangladesh",
+    "university": "Shahjalal University of Science and Technology (SUST)",
+    "department": "Computer Science & Engineering",
+    "bio": "Passionate Computer Science Engineering student at SUST, Bangladesh, exploring the frontiers of technology and innovation."
+  },
+  "skills": {
+    "programming": [
+      { "name": "Python", "level": 85 },
+      { "name": "Java", "level": 80 },
+      { "name": "C++", "level": 75 },
+      { "name": "JavaScript", "level": 70 }
+    ],
+    "web": [
+      { "name": "HTML/CSS", "level": 90 },
+      { "name": "React", "level": 75 },
+      { "name": "Node.js", "level": 65 }
+    ],
+    "tools": [
+      "Git", "MySQL", "Linux", "AI/ML", "Docker", "AWS"
+    ]
+  },
+  "stats": [
+    { "label": "Years of Study", "value": 4 },
+    { "label": "Projects Completed", "value": 15 },
+    { "label": "Technologies Learned", "value": 8 }
+  ],
+  "social": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "email": "mailto:sagormodak19@gmail.com"
+  },
+  "meta": {
+    "title": "Shourov - CSE Student & Tech Enthusiast",
+    "description": "Computer Science Engineering student at SUST Bangladesh, passionate about technology and innovation.",
+    "keywords": ["Shourov", "CSE", "SUST", "Bangladesh", "Computer Science", "Technology", "Student", "Developer"],
+    "author": "Shourov",
+    "og": {
+      "title": "Shourov - CSE Student & Tech Enthusiast",
+      "description": "Computer Science Engineering student at SUST Bangladesh, passionate about technology and innovation.",
+      "type": "website",
+      "url": "https://shourov.dev"
+    }
+  }
+}
